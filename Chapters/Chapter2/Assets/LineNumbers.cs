@@ -28,6 +28,6 @@ public class LineNumbers : MonoBehaviour
 
     int MyFunction(int a, int b)
     {
-        return a + b;
+        return a + b; 
     }
 }

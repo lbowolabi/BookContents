@@ -1,4 +1,4 @@
-# This is my version of the README
+# Lois Owolabi - Learning Something New
 
 ---
 
